@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899921981546",
+    "project_id": "kboyprovider",
+    "storage_bucket": "kboyprovider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899921981546:android:c1bde5354d703061a01a13",
+        "android_client_info": {
+          "package_name": "com.example.kboyfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899921981546-od12lfchkh6ose9f54ngsb1ml263dgqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVYMSRGQ0loQLQOiO2P58nQ_lqMDJjce0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899921981546-od12lfchkh6ose9f54ngsb1ml263dgqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
